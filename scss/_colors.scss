@@ -37,3 +37,9 @@ $bootstrap-colors: () !default;
 
 @include template-footer-style('.footer.bg-white', #fff, $color: $text-muted, $active-color: $body-color);
 @include template-footer-style('.footer.bg-light', $gray-100, $color: $text-muted, $active-color: $body-color);
+$headings-clr: hsl(233, 26%, 24%);
+$text-clr :hsl(233, 8%, 62%);
+$header-articles-bcg: #FAFAFA;
+$features-bcg: #F4F5F7;
+$white: hsl(0, 0%, 100%);
+$footer-clr:#002970;
