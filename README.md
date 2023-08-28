@@ -36,5 +36,5 @@ This project is licensed under the MIT License.
 - Bootstrap
 - Font Awesome
 
-##Contact
+## Contact
 For questions or feedback, feel free to reach out to Prafulla Patil(prafulrpatil85@gmail.com).
